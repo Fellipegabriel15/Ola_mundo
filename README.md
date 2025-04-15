@@ -1,2 +1,2 @@
-# Olamundo
+# Olá, mundo
  Repositório inicial em Python
